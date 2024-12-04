@@ -37,3 +37,21 @@ h1{
 
 /* RECIPES */
 
+h2{
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+li{
+    padding-bottom: 8px;
+}
+
+img{
+    height: 400px;
+    width: 0 auto;
+    margin-bottom: 8px;
+}
+
+p{
+    margin-bottom: 8px;
+}
